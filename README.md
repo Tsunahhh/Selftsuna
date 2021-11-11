@@ -4,7 +4,7 @@
  - Date de début: 07/11/2021
  - Projet: SelfBot
  - Version actuelle: v1.1.0
- - Download: 
+ - Download: https://github.com/Tsunahhh/Selftsuna/releases/tag/v1.1.0
 
 
 # Commandes disponibles
